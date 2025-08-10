@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nome": "Rosimere Landim",
+        "cargo": "Lider GC",
+        "endereco": "5 Stuart Crescent",
+        "post_cod": "N22 5NJ",
+        "telefone": "+447748 329851",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/1000248017.jpg",
+        "endereco_flat": "Flat 5",
+        "lat": 51.600548,
+        "lng": -0.109954
+    },
+    {
+        "id": 3,
+        "nome": "Valdivia Alice Crestani",
+        "cargo": "Lider GC",
+        "endereco": "1 Beresford Road",
+        "post_cod": "N8 0AL",
+        "telefone": "+447384406172",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/IMG-20240826-WA0138.jpg",
+        "endereco_flat": "",
+        "lat": 51.583948,
+        "lng": -0.103095
+    },
+    {
+        "id": 4,
+        "nome": "Paulo Simões de Souza",
+        "cargo": "Lider GC",
+        "endereco": "23 Minet Avenue",
+        "post_cod": "NW10 8AJ",
+        "telefone": "+447384406172",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/1000248017.jpg",
+        "endereco_flat": "Flat B",
+        "lat": 51.534953,
+        "lng": -0.251202
+    }
+]
