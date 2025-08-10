@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "nome": "Rosimere Landim",
+        "endereco_flat": "Flat 5",
+        "cargo": "Lider GC",
+        "endereco": "5 Stuart Crescent",
+        "post_cod": "N22 5NJ",
+        "lat": 51.600548,
+        "lng": -0.109954,
+        "telefone": "+447748 329851",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/1000248018.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Rosimere Landim",
+        "endereco_flat": "Flat 5",
+        "cargo": "Pastora",
+        "endereco": "5 Stuart Crescent",
+        "post_cod": "N22 5NJ",
+        "lat": 51.600548,
+        "lng": -0.109954,
+        "telefone": "+447748 329851",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/1000248018.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "Paulo Simões de Souza",
+        "endereco_flat": "Flat B",
+        "cargo": "Lider GC",
+        "endereco": "23 MINET AVENUE",
+        "post_cod": "NW10 8AJ",
+        "lat": 51.534953,
+        "lng": -0.251202,
+        "telefone": "+447384406172",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/1000248017.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Paulo Simões de Souza",
+        "endereco_flat": "Flat B",
+        "cargo": "Pastor",
+        "endereco": "23 MINET AVENUE",
+        "post_cod": "NW10 8AJ",
+        "lat": 51.534953,
+        "lng": -0.251202,
+        "telefone": "+447384406172",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/1000248017.jpg"
+    },
+    {
+        "id": 5,
+        "nome": "Valdivia Alice Crestani",
+        "endereco_flat": "",
+        "cargo": "Lider GC",
+        "endereco": "1 Beresford Road",
+        "post_cod": "N8 0AL",
+        "lat": 51.583948,
+        "lng": -0.103095,
+        "telefone": "+447765 447530",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/IMG-20240826-WA0138.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Valdivia Alice Crestani",
+        "endereco_flat": "",
+        "cargo": "Pastora",
+        "endereco": "1 Beresford Road",
+        "post_cod": "N8 0AL",
+        "lat": 51.583948,
+        "lng": -0.103095,
+        "telefone": "+447765 447530",
+        "foto_url": "https://paulosimoes1910.github.io/cadastro-membros-app/imagens/IMG-20240826-WA0138.jpg"
+    }
+]
